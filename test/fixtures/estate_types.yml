@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  sell: false
+  rent: false
+
+two:
+  name: MyString
+  sell: false
+  rent: false

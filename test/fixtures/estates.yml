@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  user_id: 
+  city: MyString
+  district: MyString
+  active: false
+  debt: false
+  oneOwner: false
+  roomCount: 1
+  cabinetCount: 1
+  hallCount: 1
+  price: 1
+  area: 1
+  recoupment: 1
+  estateType_id: 
+  operation_id: 
+
+two:
+  name: MyString
+  description: MyText
+  user_id: 
+  city: MyString
+  district: MyString
+  active: false
+  debt: false
+  oneOwner: false
+  roomCount: 1
+  cabinetCount: 1
+  hallCount: 1
+  price: 1
+  area: 1
+  recoupment: 1
+  estateType_id: 
+  operation_id: 

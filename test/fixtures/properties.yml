@@ -1,0 +1,55 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  estate_id: 
+  real_area: 1
+  kitchen_area: 1
+  sector_area: 1
+  street: MyString
+  building_material: MyString
+  floor: 1
+  all_floor: 1
+  year: 2015-09-26
+  furniture: MyString
+  status: MyString
+  level: MyString
+  balcony: 1
+  distance_to_city: 1
+  water: false
+  gas: false
+  ectricity: false
+  sewerage: false
+  rampant: false
+  branch_line: false
+  protection: false
+  phone: false
+  internet: false
+  equipment: false
+  technique: false
+
+two:
+  estate_id: 
+  real_area: 1
+  kitchen_area: 1
+  sector_area: 1
+  street: MyString
+  building_material: MyString
+  floor: 1
+  all_floor: 1
+  year: 2015-09-26
+  furniture: MyString
+  status: MyString
+  level: MyString
+  balcony: 1
+  distance_to_city: 1
+  water: false
+  gas: false
+  ectricity: false
+  sewerage: false
+  rampant: false
+  branch_line: false
+  protection: false
+  phone: false
+  internet: false
+  equipment: false
+  technique: false
